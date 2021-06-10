@@ -13,7 +13,6 @@
     <extension name='solrserver' />
     <extension name='yacceleratorinitialdata' />
 	  <extension name= 'yacceleratorstorefront' />
-	  <extension name= 'CTstorefront' />
 	  <extension name= 'electronicsstore' />
 	  <extension name= 'apparelstore' />
 	  <extension name= 'acceleratorwebservicesaddon' />
