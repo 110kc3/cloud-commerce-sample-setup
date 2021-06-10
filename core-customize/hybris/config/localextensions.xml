@@ -80,6 +80,7 @@
 	  <extension name= 'merchandisingservices' />
 	  <extension name= 'merchandisingservicesbackoffice' />
 	  <extension name= 'merchandisingstorefrontsampledataaddon' />
+	  <extension name= 'multicountrysampledataaddon' />
 	  <extension name= 'ondemandcommon' />
 	  <extension name= 'ondemandsampledata' />
 	  <extension name= 'outboundservices' />
